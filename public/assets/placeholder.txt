@@ -1,0 +1,17 @@
+This directory will contain the game assets:
+
+symbols/
+- SYM1.png
+- SYM2.png
+- SYM3.png
+- SYM4.png
+- SYM5.png
+- SYM6.png
+
+ui/
+- spin_button.png
+- spin_button_disabled.png
+- background.png
+
+Assets should be downloaded from:
+http://www.fantasmagames.com/Tests/Assetpack/assets.zip
