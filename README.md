@@ -42,3 +42,6 @@ long as you consider it well-written. Use PIXI as a rendering engine. Use JavaSc
 TypeScript. DO NOT USE AI to generate code.
 
 Best test assignment would have both: well written code and gameplay.
+
+<img width="1187" height="798" alt="SlotMachineGame" src="https://github.com/user-attachments/assets/18f152c2-b0a7-497c-8fa1-c6b12bd73869" />
+
